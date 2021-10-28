@@ -1,2 +1,3 @@
 Teste
 Entendendo o HEAD
+Essa linha foi modificada no ramo Master
